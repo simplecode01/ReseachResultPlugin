@@ -1,4 +1,4 @@
-### ReseacheResultPlugin
+### ReseachResultPlugin
 - 🔨 Version: 1.0.0
 - 📜 Type: Plugin Wordpress
 - 👷 Maker: simplecode01
