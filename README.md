@@ -6,4 +6,4 @@
 - 🆕 Update : Yes
 
 ### Example Reseach Result Output
-<img src='https://github.com/simplecode01/MyFile/blob/main/image_2021-02-14_191315.png' height='400'>
+<img src='https://github.com/simplecode01/MyFile/blob/main/image_2021-02-14_191315.png' height='300'>
